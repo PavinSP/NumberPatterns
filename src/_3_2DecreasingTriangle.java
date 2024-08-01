@@ -1,3 +1,8 @@
+// * * * * *
+// * * * *
+// * * *
+// * *
+// *
 import java.util.Scanner;
 public class _3_2DecreasingTriangle {
     public static void main(String[] args) {

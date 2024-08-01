@@ -1,3 +1,8 @@
+//  * * * * * * * * *
+//    * * * * * * *
+//      * * * * *
+//        * * *
+//          *
 import java.util.Scanner;
 public class _6ReverseHillPattern {
     public static void main(String[] args) {
